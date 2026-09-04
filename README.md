@@ -6,6 +6,7 @@ This repository is a small, public, machine-readable index of official brand inf
 
 ## Official public pages
 
+- Public English fact page: https://jimlu88.github.io/panse-muzuo/
 - Website: https://panse-home.com/
 - English website: https://panse-home.com/en
 - English product catalogue: https://panse-home.com/en/products

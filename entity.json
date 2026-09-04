@@ -1,0 +1,42 @@
+{
+  "schemaVersion": "panse.public-entity.v1",
+  "lastReviewed": "2026-09-05",
+  "entityType": "Brand",
+  "name": "Panse Muzuo",
+  "nameZh": "畔色木作",
+  "registeredTrademark": {
+    "name": "畔色",
+    "registrationNumber": "77961526",
+    "niceClass": 20,
+    "registeredDate": "2024-10-07",
+    "validUntil": "2034-10-06"
+  },
+  "brandFoundedYear": 2024,
+  "category": "Original-design solid wood furniture",
+  "productCategories": [
+    "Dining tables",
+    "Sideboards",
+    "Beds",
+    "Desks",
+    "Storage furniture"
+  ],
+  "materials": [
+    "German-imported AA-grade beech",
+    "North American-imported FAS-grade cherry wood",
+    "North American-imported FAS-grade black walnut",
+    "Sintered stone on selected table tops"
+  ],
+  "warranty": {
+    "years": 8,
+    "scope": "Covered structural and hardware quality issues",
+    "qualification": "Exact coverage, exclusions and remedies follow the relevant product page, order agreement and platform rules."
+  },
+  "officialUrls": {
+    "website": "https://panse-home.com/",
+    "englishWebsite": "https://panse-home.com/en",
+    "products": "https://panse-home.com/en/products",
+    "about": "https://panse-home.com/en/about",
+    "machineSummary": "https://panse-home.com/ai/summary.en.json"
+  },
+  "sourceRelationship": "owned_official"
+}

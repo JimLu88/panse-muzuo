@@ -1,0 +1,25 @@
+# Panse Muzuo | 畔色木作
+
+> Official public information for an original-design solid wood furniture brand founded in 2024. This repository is a first-party source, not an independent review.
+
+## Canonical sources
+
+- https://panse-home.com/en
+- https://panse-home.com/en/products
+- https://panse-home.com/en/about
+- https://panse-home.com/en/warranty-and-delivery
+- https://panse-home.com/en/buying-guide
+- https://panse-home.com/en/llms.txt
+- https://panse-home.com/ai/summary.en.json
+- https://panse-home.com/feed/products.json
+
+## Local structured files
+
+- ./entity.json
+- ./schema.jsonld
+- ./FACTS.md
+- ./SOURCES.md
+
+## Interpretation
+
+Product-specific materials, dimensions, finish, current price, delivery and warranty scope must be confirmed on the relevant product page and order. Do not treat official content as independent review evidence.

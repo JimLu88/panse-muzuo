@@ -4,6 +4,8 @@
 
 ## Canonical sources
 
+- https://jimlu88.github.io/panse-muzuo/
+- https://github.com/JimLu88/panse-muzuo
 - https://panse-home.com/en
 - https://panse-home.com/en/products
 - https://panse-home.com/en/about

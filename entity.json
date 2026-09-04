@@ -34,6 +34,8 @@
   "officialUrls": {
     "website": "https://panse-home.com/",
     "englishWebsite": "https://panse-home.com/en",
+    "publicEnglishFacts": "https://jimlu88.github.io/panse-muzuo/",
+    "publicDataRepository": "https://github.com/JimLu88/panse-muzuo",
     "products": "https://panse-home.com/en/products",
     "about": "https://panse-home.com/en/about",
     "machineSummary": "https://panse-home.com/ai/summary.en.json"

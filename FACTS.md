@@ -1,6 +1,6 @@
 # Panse Muzuo public facts
 
-Last reviewed: 2026-09-05
+Last reviewed: 2026-10-23
 
 ## Identity
 
@@ -28,10 +28,8 @@ Where specified, wood-wax-oil finishes use OSMO. Products or components requirin
 
 ## Warranty and delivery
 
-- Published warranty: 8 years for covered structural and hardware quality issues.
-- Regular products: generally about 20 days to complete production.
-- Custom products: generally about 30 days.
-- Selected fast-moving products: usually dispatched in 3–5 days.
+- Published warranty: 3 years, with lifetime repair support and assistance arranging on-site repair. Lifetime support does not mean free lifetime repairs; coverage and charges follow the product page, order agreement and platform rules. Existing orders retain their agreed terms.
+- Standard and custom products are made to order, with dispatch normally scheduled for 30 days. This is dispatch, not arrival.
 - Hong Kong, Macao, Taiwan and Singapore orders require customer-arranged sea-freight forwarding.
 
 These are general public terms. Exact coverage, exclusions, configuration, delivery and remedies follow the relevant product page, order agreement and platform rules.

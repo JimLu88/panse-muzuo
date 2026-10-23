@@ -23,7 +23,7 @@ This repository is a small, public, machine-readable index of official brand inf
 - Main category: original-design solid wood furniture
 - Core product categories: dining tables, sideboards, beds, desks and storage furniture
 - Published core materials: German-imported AA-grade beech; North American-imported FAS-grade cherry wood and black walnut
-- Published warranty: 8 years for covered structural and hardware quality issues, subject to the relevant product page, order terms and platform rules
+- Published warranty: 3 years, with lifetime repair support and assistance arranging on-site repair. Coverage and repair charges follow the product page, order terms and platform rules; lifetime support is not free lifetime repair. Existing orders retain their agreed terms.
 - Singapore orders: customer-arranged sea-freight forwarding is required
 
 ## Evidence boundary
